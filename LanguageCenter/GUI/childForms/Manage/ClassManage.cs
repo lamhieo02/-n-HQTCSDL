@@ -27,5 +27,20 @@ namespace LanguageCenter.GUI.childForms
         {
 
         }
+
+        private void AddBtn_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void UpdateBtn_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void DeleteBtn_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

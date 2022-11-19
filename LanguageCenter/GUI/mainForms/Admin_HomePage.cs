@@ -23,10 +23,14 @@ namespace LanguageCenter.GUI
         public string Name { get; set; }
         public string Email { get; set; }
         public string Phone { get; set; }
-        public Admin_HomePage()
+
+        private Form parent;
+        public Admin_HomePage(Form parent)
         {
+            this.parent = parent;
             InitializeComponent();
         }
+
         private void Admin_HomePage_Load(object sender, EventArgs e)
         {
             txtName.Text = "          " + Name;
@@ -39,6 +43,7 @@ namespace LanguageCenter.GUI
             TopMost = false;
             WindowState = FormWindowState.Normal;
         }
+
         private void OpenChildForm(Form childForm, object btnSender) {
             {
                 if(activeForm != null)
@@ -112,6 +117,11 @@ namespace LanguageCenter.GUI
         private void classMnBtn_Click(object sender, EventArgs e)
         {
             OpenChildForm(new childForms.ClassManage(), sender);
+        }
+
+        private void Admin_HomePage_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            this.parent.Show();
         }
     }
 }

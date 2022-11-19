@@ -56,9 +56,9 @@ namespace LanguageCenter.GUI
             this.panel1.Controls.Add(this.label1);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
-            this.panel1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.panel1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1087, 69);
+            this.panel1.Size = new System.Drawing.Size(815, 56);
             this.panel1.TabIndex = 1;
             // 
             // txtName
@@ -70,10 +70,11 @@ namespace LanguageCenter.GUI
             this.txtName.ForeColor = System.Drawing.Color.White;
             this.txtName.Image = global::LanguageCenter.Properties.Resources.manager;
             this.txtName.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.txtName.Location = new System.Drawing.Point(894, 0);
+            this.txtName.Location = new System.Drawing.Point(646, 0);
+            this.txtName.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.txtName.Name = "txtName";
-            this.txtName.Padding = new System.Windows.Forms.Padding(0, 24, 9, 20);
-            this.txtName.Size = new System.Drawing.Size(193, 62);
+            this.txtName.Padding = new System.Windows.Forms.Padding(0, 20, 7, 16);
+            this.txtName.Size = new System.Drawing.Size(169, 50);
             this.txtName.TabIndex = 1;
             this.txtName.Text = "        Pham Quynh Huong";
             this.txtName.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -88,9 +89,10 @@ namespace LanguageCenter.GUI
             this.label1.Image = global::LanguageCenter.Properties.Resources.education;
             this.label1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.label1.Location = new System.Drawing.Point(0, 0);
+            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Padding = new System.Windows.Forms.Padding(9, 24, 0, 20);
-            this.label1.Size = new System.Drawing.Size(207, 62);
+            this.label1.Padding = new System.Windows.Forms.Padding(7, 20, 0, 16);
+            this.label1.Size = new System.Drawing.Size(183, 50);
             this.label1.TabIndex = 0;
             this.label1.Text = "                Language Center";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -108,10 +110,10 @@ namespace LanguageCenter.GUI
             this.panel2.Controls.Add(this.staffMnBtn);
             this.panel2.Controls.Add(this.profileBtn);
             this.panel2.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel2.Location = new System.Drawing.Point(0, 69);
-            this.panel2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.panel2.Location = new System.Drawing.Point(0, 56);
+            this.panel2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(265, 681);
+            this.panel2.Size = new System.Drawing.Size(199, 553);
             this.panel2.TabIndex = 2;
             // 
             // logoutBtn
@@ -124,11 +126,11 @@ namespace LanguageCenter.GUI
             this.logoutBtn.ForeColor = System.Drawing.Color.White;
             this.logoutBtn.Image = global::LanguageCenter.Properties.Resources.logout2;
             this.logoutBtn.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.logoutBtn.Location = new System.Drawing.Point(0, 544);
-            this.logoutBtn.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.logoutBtn.Location = new System.Drawing.Point(0, 440);
+            this.logoutBtn.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.logoutBtn.Name = "logoutBtn";
-            this.logoutBtn.Padding = new System.Windows.Forms.Padding(18, 0, 0, 0);
-            this.logoutBtn.Size = new System.Drawing.Size(265, 68);
+            this.logoutBtn.Padding = new System.Windows.Forms.Padding(14, 0, 0, 0);
+            this.logoutBtn.Size = new System.Drawing.Size(199, 55);
             this.logoutBtn.TabIndex = 8;
             this.logoutBtn.Text = "         Đăng xuất";
             this.logoutBtn.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -145,11 +147,11 @@ namespace LanguageCenter.GUI
             this.changePwBtn.ForeColor = System.Drawing.Color.White;
             this.changePwBtn.Image = global::LanguageCenter.Properties.Resources.settings;
             this.changePwBtn.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.changePwBtn.Location = new System.Drawing.Point(0, 476);
-            this.changePwBtn.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.changePwBtn.Location = new System.Drawing.Point(0, 385);
+            this.changePwBtn.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.changePwBtn.Name = "changePwBtn";
-            this.changePwBtn.Padding = new System.Windows.Forms.Padding(18, 0, 0, 0);
-            this.changePwBtn.Size = new System.Drawing.Size(265, 68);
+            this.changePwBtn.Padding = new System.Windows.Forms.Padding(14, 0, 0, 0);
+            this.changePwBtn.Size = new System.Drawing.Size(199, 55);
             this.changePwBtn.TabIndex = 7;
             this.changePwBtn.Text = "         Đổi mật khẩu";
             this.changePwBtn.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -166,11 +168,11 @@ namespace LanguageCenter.GUI
             this.paymentMnBtn.ForeColor = System.Drawing.Color.White;
             this.paymentMnBtn.Image = global::LanguageCenter.Properties.Resources.credit_card1;
             this.paymentMnBtn.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.paymentMnBtn.Location = new System.Drawing.Point(0, 408);
-            this.paymentMnBtn.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.paymentMnBtn.Location = new System.Drawing.Point(0, 330);
+            this.paymentMnBtn.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.paymentMnBtn.Name = "paymentMnBtn";
-            this.paymentMnBtn.Padding = new System.Windows.Forms.Padding(18, 0, 0, 0);
-            this.paymentMnBtn.Size = new System.Drawing.Size(265, 68);
+            this.paymentMnBtn.Padding = new System.Windows.Forms.Padding(14, 0, 0, 0);
+            this.paymentMnBtn.Size = new System.Drawing.Size(199, 55);
             this.paymentMnBtn.TabIndex = 6;
             this.paymentMnBtn.Text = "         Quản lí thanh toán";
             this.paymentMnBtn.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -187,11 +189,11 @@ namespace LanguageCenter.GUI
             this.classMnBtn.ForeColor = System.Drawing.Color.White;
             this.classMnBtn.Image = global::LanguageCenter.Properties.Resources.class2;
             this.classMnBtn.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.classMnBtn.Location = new System.Drawing.Point(0, 340);
-            this.classMnBtn.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.classMnBtn.Location = new System.Drawing.Point(0, 275);
+            this.classMnBtn.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.classMnBtn.Name = "classMnBtn";
-            this.classMnBtn.Padding = new System.Windows.Forms.Padding(18, 0, 0, 0);
-            this.classMnBtn.Size = new System.Drawing.Size(265, 68);
+            this.classMnBtn.Padding = new System.Windows.Forms.Padding(14, 0, 0, 0);
+            this.classMnBtn.Size = new System.Drawing.Size(199, 55);
             this.classMnBtn.TabIndex = 5;
             this.classMnBtn.Text = "         Quản lí lớp học";
             this.classMnBtn.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -208,11 +210,11 @@ namespace LanguageCenter.GUI
             this.courseMnBtn.ForeColor = System.Drawing.Color.White;
             this.courseMnBtn.Image = global::LanguageCenter.Properties.Resources.open_book1;
             this.courseMnBtn.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.courseMnBtn.Location = new System.Drawing.Point(0, 272);
-            this.courseMnBtn.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.courseMnBtn.Location = new System.Drawing.Point(0, 220);
+            this.courseMnBtn.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.courseMnBtn.Name = "courseMnBtn";
-            this.courseMnBtn.Padding = new System.Windows.Forms.Padding(18, 0, 0, 0);
-            this.courseMnBtn.Size = new System.Drawing.Size(265, 68);
+            this.courseMnBtn.Padding = new System.Windows.Forms.Padding(14, 0, 0, 0);
+            this.courseMnBtn.Size = new System.Drawing.Size(199, 55);
             this.courseMnBtn.TabIndex = 4;
             this.courseMnBtn.Text = "         Quản lí khóa học";
             this.courseMnBtn.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -229,11 +231,11 @@ namespace LanguageCenter.GUI
             this.teacherMnBtn.ForeColor = System.Drawing.Color.White;
             this.teacherMnBtn.Image = global::LanguageCenter.Properties.Resources.teacher;
             this.teacherMnBtn.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.teacherMnBtn.Location = new System.Drawing.Point(0, 204);
-            this.teacherMnBtn.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.teacherMnBtn.Location = new System.Drawing.Point(0, 165);
+            this.teacherMnBtn.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.teacherMnBtn.Name = "teacherMnBtn";
-            this.teacherMnBtn.Padding = new System.Windows.Forms.Padding(18, 0, 0, 0);
-            this.teacherMnBtn.Size = new System.Drawing.Size(265, 68);
+            this.teacherMnBtn.Padding = new System.Windows.Forms.Padding(14, 0, 0, 0);
+            this.teacherMnBtn.Size = new System.Drawing.Size(199, 55);
             this.teacherMnBtn.TabIndex = 3;
             this.teacherMnBtn.Text = "         Quản lí giảng viên";
             this.teacherMnBtn.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -250,11 +252,11 @@ namespace LanguageCenter.GUI
             this.studentMnBtn.ForeColor = System.Drawing.Color.White;
             this.studentMnBtn.Image = global::LanguageCenter.Properties.Resources.student_admin;
             this.studentMnBtn.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.studentMnBtn.Location = new System.Drawing.Point(0, 136);
-            this.studentMnBtn.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.studentMnBtn.Location = new System.Drawing.Point(0, 110);
+            this.studentMnBtn.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.studentMnBtn.Name = "studentMnBtn";
-            this.studentMnBtn.Padding = new System.Windows.Forms.Padding(18, 0, 0, 0);
-            this.studentMnBtn.Size = new System.Drawing.Size(265, 68);
+            this.studentMnBtn.Padding = new System.Windows.Forms.Padding(14, 0, 0, 0);
+            this.studentMnBtn.Size = new System.Drawing.Size(199, 55);
             this.studentMnBtn.TabIndex = 2;
             this.studentMnBtn.Text = "         Quản lí học viên";
             this.studentMnBtn.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -271,11 +273,11 @@ namespace LanguageCenter.GUI
             this.staffMnBtn.ForeColor = System.Drawing.Color.White;
             this.staffMnBtn.Image = global::LanguageCenter.Properties.Resources.representative;
             this.staffMnBtn.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.staffMnBtn.Location = new System.Drawing.Point(0, 68);
-            this.staffMnBtn.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.staffMnBtn.Location = new System.Drawing.Point(0, 55);
+            this.staffMnBtn.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.staffMnBtn.Name = "staffMnBtn";
-            this.staffMnBtn.Padding = new System.Windows.Forms.Padding(18, 0, 0, 0);
-            this.staffMnBtn.Size = new System.Drawing.Size(265, 68);
+            this.staffMnBtn.Padding = new System.Windows.Forms.Padding(14, 0, 0, 0);
+            this.staffMnBtn.Size = new System.Drawing.Size(199, 55);
             this.staffMnBtn.TabIndex = 1;
             this.staffMnBtn.Text = "         Quản lí nhân viên";
             this.staffMnBtn.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -293,10 +295,10 @@ namespace LanguageCenter.GUI
             this.profileBtn.Image = global::LanguageCenter.Properties.Resources.user;
             this.profileBtn.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.profileBtn.Location = new System.Drawing.Point(0, 0);
-            this.profileBtn.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.profileBtn.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.profileBtn.Name = "profileBtn";
-            this.profileBtn.Padding = new System.Windows.Forms.Padding(18, 0, 0, 0);
-            this.profileBtn.Size = new System.Drawing.Size(265, 68);
+            this.profileBtn.Padding = new System.Windows.Forms.Padding(14, 0, 0, 0);
+            this.profileBtn.Size = new System.Drawing.Size(199, 55);
             this.profileBtn.TabIndex = 0;
             this.profileBtn.Text = "         Hồ sơ";
             this.profileBtn.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -307,10 +309,10 @@ namespace LanguageCenter.GUI
             // 
             this.panelDesktopPane.Controls.Add(this.button1);
             this.panelDesktopPane.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panelDesktopPane.Location = new System.Drawing.Point(265, 69);
-            this.panelDesktopPane.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.panelDesktopPane.Location = new System.Drawing.Point(199, 56);
+            this.panelDesktopPane.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.panelDesktopPane.Name = "panelDesktopPane";
-            this.panelDesktopPane.Size = new System.Drawing.Size(822, 681);
+            this.panelDesktopPane.Size = new System.Drawing.Size(616, 553);
             this.panelDesktopPane.TabIndex = 3;
             // 
             // button1
@@ -318,23 +320,24 @@ namespace LanguageCenter.GUI
             this.button1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.button1.Image = global::LanguageCenter.Properties.Resources._5514;
             this.button1.Location = new System.Drawing.Point(0, 0);
-            this.button1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.button1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(822, 681);
+            this.button1.Size = new System.Drawing.Size(616, 553);
             this.button1.TabIndex = 0;
             this.button1.UseVisualStyleBackColor = true;
             // 
             // Admin_HomePage
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1087, 750);
+            this.ClientSize = new System.Drawing.Size(815, 609);
             this.Controls.Add(this.panelDesktopPane);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
-            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Admin_HomePage";
             this.Text = "Admin_HomePage";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Admin_HomePage_FormClosing);
             this.Load += new System.EventHandler(this.Admin_HomePage_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();

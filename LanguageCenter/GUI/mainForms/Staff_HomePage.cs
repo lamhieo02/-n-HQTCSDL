@@ -25,9 +25,13 @@ namespace LanguageCenter.GUI
         public string Name { get; set; }
         public string Email { get; set; }
         public string Phone { get; set; }
-        public Staff_HomePage()
+
+        private Form parent;
+        public Staff_HomePage(Form parent)
         {
             InitializeComponent();
+            this.parent = parent;
+            MessageBox.Show(parent.Text);
         }
         private void Staff_HomePage_Load(object sender, EventArgs e)
         {
@@ -108,6 +112,12 @@ namespace LanguageCenter.GUI
         private void paymentManageBtn_Click(object sender, EventArgs e)
         {
             OpenChildForm(new childForms.PaymentManage(), sender);
+        }
+
+        private void Staff_HomePage_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            MessageBox.Show("Close");
+            this.parent.Show();
         }
     }
 }

@@ -89,7 +89,7 @@ namespace LanguageCenter.GUI.mainForms
             //lay thong tin user
             StaffDAO staff_dao = new StaffDAO();
             Staff staff = staff_dao.getStaffByUsername(username);
-            Admin_HomePage staffForm = new Admin_HomePage();
+            Admin_HomePage staffForm = new Admin_HomePage(this);
             staffForm.Username = staff.Username;
             staffForm.Password = staff.Password;
             staffForm.Position = staff.Position;
@@ -108,7 +108,7 @@ namespace LanguageCenter.GUI.mainForms
             //lay thong tin user
             StaffDAO staff_dao = new StaffDAO();
             Staff staff = staff_dao.getStaffByUsername(username);
-            Staff_HomePage staffForm = new Staff_HomePage();
+            Staff_HomePage staffForm = new Staff_HomePage(this);
             staffForm.Username = staff.Username;
             staffForm.Password = staff.Password;
             staffForm.Address = staff.Address;
@@ -119,7 +119,7 @@ namespace LanguageCenter.GUI.mainForms
             staffForm.Position = staff.Position;
 
             this.Hide();
-            staffForm.ShowDialog();
+            staffForm.Show();
         }
         public void LoginStudent()
         {
@@ -174,6 +174,11 @@ namespace LanguageCenter.GUI.mainForms
             FormBorderStyle = FormBorderStyle.Sizable;
             TopMost = false;
             WindowState = FormWindowState.Normal;*/
+        }
+
+        private void Login_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            Application.Exit();
         }
     }
 }
