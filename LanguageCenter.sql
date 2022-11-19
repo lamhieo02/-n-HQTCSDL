@@ -1,8 +1,8 @@
 ﻿----------------------------------TẠO DATABASE----------------------------------
 
-create database LanguageCenter_DEMO2
+create database LanguageCenter
 go
-use LanguageCenter_DEMO2
+use LanguageCenter
 go
 
 -- Courses
@@ -715,11 +715,11 @@ declare @status_name nvarchar(30)
 set @status_name = ''
 if @status = 1
 	begin 
-	set @status_name = 'Đã thanh toán'
+	set @status_name = N'Đã thanh toán'
 	end
 if @status = 0
 	begin 
-	set @status_name = 'Chưa thanh toán'
+	set @status_name = N'Chưa thanh toán'
 	end
 return @status_name
 end
@@ -747,7 +747,7 @@ exec getPayments
 go
 create procedure InsertPayment @payment_date date, @amount int, @method_id int, @status int, @username nvarchar(30)
 as begin
-insert into Payments values(@payment_date, @amount, @	, @status, @username)
+insert into Payments values(@payment_date, @amount, @method_id	, @status, @username)
 end
 
 select * from Payments
