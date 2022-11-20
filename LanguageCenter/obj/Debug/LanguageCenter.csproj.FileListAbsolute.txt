@@ -28,3 +28,34 @@ D:\Github\HQTCSDL4\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.csproj.Gen
 D:\Github\HQTCSDL4\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.csproj.CoreCompileInputs.cache
 D:\Github\HQTCSDL4\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.exe
 D:\Github\HQTCSDL4\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.pdb
+D:\Project HQT\-n-HQTCSDL\LanguageCenter\bin\Debug\LanguageCenter.exe.config
+D:\Project HQT\-n-HQTCSDL\LanguageCenter\bin\Debug\LanguageCenter.exe
+D:\Project HQT\-n-HQTCSDL\LanguageCenter\bin\Debug\LanguageCenter.pdb
+D:\Project HQT\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.csproj.AssemblyReference.cache
+D:\Project HQT\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.csproj.SuggestedBindingRedirects.cache
+D:\Project HQT\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.Form1.resources
+D:\Project HQT\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.StaffManage.resources
+D:\Project HQT\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.PaymentManage.resources
+D:\Project HQT\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.LichSuGiaoDich.resources
+D:\Project HQT\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.Staff_Profile.resources
+D:\Project HQT\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.TeacherSchedule.resources
+D:\Project HQT\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.TeacherClass.resources
+D:\Project HQT\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.AllClass.resources
+D:\Project HQT\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.StudentSchedule.resources
+D:\Project HQT\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.StudentManage.resources
+D:\Project HQT\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.TeacherManage.resources
+D:\Project HQT\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.CourseManage.resources
+D:\Project HQT\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.ClassManage.resources
+D:\Project HQT\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.Teacher_Profile.resources
+D:\Project HQT\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.Student_Profile.resources
+D:\Project HQT\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.mainForms.ChangePassword.resources
+D:\Project HQT\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.mainForms.Login.resources
+D:\Project HQT\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.Admin_HomePage.resources
+D:\Project HQT\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.Teacher_HomePage.resources
+D:\Project HQT\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.Staff_HomePage.resources
+D:\Project HQT\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.Student_HomePage.resources
+D:\Project HQT\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.Properties.Resources.resources
+D:\Project HQT\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.csproj.GenerateResource.cache
+D:\Project HQT\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.csproj.CoreCompileInputs.cache
+D:\Project HQT\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.exe
+D:\Project HQT\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.pdb
