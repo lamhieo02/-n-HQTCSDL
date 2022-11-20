@@ -115,5 +115,10 @@ namespace LanguageCenter.GUI.childForms
                                                      "[WeekDays] LIKE '%{0}%' OR" +
                                                      " convert(No_Students, 'System.String') LIKE '%{0}%'", txtSearch.Text);
         }
+
+        private void refreshBtn_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

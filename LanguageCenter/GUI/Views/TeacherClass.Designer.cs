@@ -40,7 +40,6 @@ namespace LanguageCenter.GUI.childForms
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.studentGridview = new System.Windows.Forms.DataGridView();
-            this.panel2 = new System.Windows.Forms.Panel();
             this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -52,6 +51,8 @@ namespace LanguageCenter.GUI.childForms
             this.Column9 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column10 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column11 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.panel2 = new System.Windows.Forms.Panel();
+            this.refreshBtn = new LanguageCenter.GUI.Components.RoundedButton();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.studentGridview)).BeginInit();
@@ -59,6 +60,7 @@ namespace LanguageCenter.GUI.childForms
             // 
             // panel1
             // 
+            this.panel1.Controls.Add(this.refreshBtn);
             this.panel1.Controls.Add(this.label11);
             this.panel1.Controls.Add(this.label2);
             this.panel1.Controls.Add(this.comboBox1);
@@ -66,7 +68,7 @@ namespace LanguageCenter.GUI.childForms
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1327, 110);
+            this.panel1.Size = new System.Drawing.Size(1515, 110);
             this.panel1.TabIndex = 0;
             // 
             // label11
@@ -120,7 +122,7 @@ namespace LanguageCenter.GUI.childForms
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 62;
             this.dataGridView1.RowTemplate.Height = 28;
-            this.dataGridView1.Size = new System.Drawing.Size(1327, 639);
+            this.dataGridView1.Size = new System.Drawing.Size(1515, 639);
             this.dataGridView1.TabIndex = 1;
             // 
             // studentGridview
@@ -172,16 +174,8 @@ namespace LanguageCenter.GUI.childForms
             dataGridViewCellStyle4.Font = new System.Drawing.Font("Tahoma", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.studentGridview.RowsDefaultCellStyle = dataGridViewCellStyle4;
             this.studentGridview.RowTemplate.Height = 28;
-            this.studentGridview.Size = new System.Drawing.Size(1327, 639);
+            this.studentGridview.Size = new System.Drawing.Size(1515, 639);
             this.studentGridview.TabIndex = 2;
-            // 
-            // panel2
-            // 
-            this.panel2.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel2.Location = new System.Drawing.Point(0, 739);
-            this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(1327, 10);
-            this.panel2.TabIndex = 4;
             // 
             // Column1
             // 
@@ -260,11 +254,34 @@ namespace LanguageCenter.GUI.childForms
             this.Column11.Name = "Column11";
             this.Column11.Width = 150;
             // 
+            // panel2
+            // 
+            this.panel2.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.panel2.Location = new System.Drawing.Point(0, 739);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(1515, 10);
+            this.panel2.TabIndex = 4;
+            // 
+            // refreshBtn
+            // 
+            this.refreshBtn.BackColor = System.Drawing.Color.Transparent;
+            this.refreshBtn.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.refreshBtn.FlatAppearance.BorderSize = 0;
+            this.refreshBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.refreshBtn.Font = new System.Drawing.Font("Tahoma", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.refreshBtn.ForeColor = System.Drawing.Color.White;
+            this.refreshBtn.Image = global::LanguageCenter.Properties.Resources.refresh__4_;
+            this.refreshBtn.Location = new System.Drawing.Point(1237, 22);
+            this.refreshBtn.Name = "refreshBtn";
+            this.refreshBtn.Size = new System.Drawing.Size(77, 80);
+            this.refreshBtn.TabIndex = 31;
+            this.refreshBtn.UseVisualStyleBackColor = false;
+            // 
             // TeacherClass
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1327, 749);
+            this.ClientSize = new System.Drawing.Size(1515, 749);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.studentGridview);
             this.Controls.Add(this.dataGridView1);
@@ -301,5 +318,6 @@ namespace LanguageCenter.GUI.childForms
         private System.Windows.Forms.DataGridViewTextBoxColumn Column9;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column10;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column11;
+        private Components.RoundedButton refreshBtn;
     }
 }
