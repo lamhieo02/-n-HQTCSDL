@@ -276,7 +276,9 @@
   <ItemGroup>
     <None Include="Resources\education.png" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <None Include="Resources\refresh %281%29.png" />
+  </ItemGroup>
   <ItemGroup>
     <None Include="Resources\reading-book.png" />
   </ItemGroup>
@@ -375,6 +377,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\logout2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh %284%29.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

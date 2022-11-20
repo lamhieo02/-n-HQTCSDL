@@ -1,176 +1,30 @@
-D:\HK1_Nam3\Hệ quản trị CSDL\do an\LanguageCenter\LanguageCenter\bin\Debug\LanguageCenter.exe.config
-D:\HK1_Nam3\Hệ quản trị CSDL\do an\LanguageCenter\LanguageCenter\bin\Debug\LanguageCenter.exe
-D:\HK1_Nam3\Hệ quản trị CSDL\do an\LanguageCenter\LanguageCenter\bin\Debug\LanguageCenter.pdb
-D:\HK1_Nam3\Hệ quản trị CSDL\do an\LanguageCenter\LanguageCenter\obj\Debug\LanguageCenter.Form1.resources
-D:\HK1_Nam3\Hệ quản trị CSDL\do an\LanguageCenter\LanguageCenter\obj\Debug\LanguageCenter.GUI.Student_HomePage.resources
-D:\HK1_Nam3\Hệ quản trị CSDL\do an\LanguageCenter\LanguageCenter\obj\Debug\LanguageCenter.Properties.Resources.resources
-D:\HK1_Nam3\Hệ quản trị CSDL\do an\LanguageCenter\LanguageCenter\obj\Debug\LanguageCenter.csproj.GenerateResource.cache
-D:\HK1_Nam3\Hệ quản trị CSDL\do an\LanguageCenter\LanguageCenter\obj\Debug\LanguageCenter.csproj.CoreCompileInputs.cache
-D:\HK1_Nam3\Hệ quản trị CSDL\do an\LanguageCenter\LanguageCenter\obj\Debug\LanguageCenter.exe
-D:\HK1_Nam3\Hệ quản trị CSDL\do an\LanguageCenter\LanguageCenter\obj\Debug\LanguageCenter.pdb
-D:\HK1_Nam3\Hệ quản trị CSDL\do an\LanguageCenter\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.Student_Profile.resources
-D:\HK1_Nam3\Hệ quản trị CSDL\do an\LanguageCenter\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.Student_ChangePw.resources
-D:\HK1_Nam3\Hệ quản trị CSDL\do an\LanguageCenter\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.Student_Schedule.resources
-D:\HK1_Nam3\Hệ quản trị CSDL\do an\LanguageCenter\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.Student_Score.resources
-D:\HK1_Nam3\Hệ quản trị CSDL\do an\LanguageCenter\LanguageCenter\obj\Debug\LanguageCenter.GUI.mainForms.Login.resources
-D:\HK1_Nam3\Hệ quản trị CSDL\do an\LanguageCenter\LanguageCenter\obj\Debug\LanguageCenter.GUI.Admin_HomePage.resources
-D:\HK1_Nam3\Hệ quản trị CSDL\do an\LanguageCenter\LanguageCenter\obj\Debug\LanguageCenter.GUI.Staff_HomePage.resources
-D:\HK1_Nam3\Hệ quản trị CSDL\do an\LanguageCenter\LanguageCenter\obj\Debug\LanguageCenter.GUI.Teacher_HomePage.resources
-D:\HK1_Nam3\Hệ quản trị CSDL\do an\LanguageCenter\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.StudentManage.resources
-D:\HK1_Nam3\Hệ quản trị CSDL\do an\LanguageCenter\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.Profile.resources
-D:\HK1_Nam3\Hệ quản trị CSDL\do an\LanguageCenter\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.StaffManage.resources
-D:\HK1_Nam3\Hệ quản trị CSDL\do an\LanguageCenter\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.TeacherManage.resources
-D:\HK1_Nam3\Hệ quản trị CSDL\do an\LanguageCenter\LanguageCenter\obj\Debug\LanguageCenter.csproj.AssemblyReference.cache
-D:\Github\HQTCSDL\LanguageCenter\bin\Debug\LanguageCenter.exe.config
-D:\Github\HQTCSDL\LanguageCenter\bin\Debug\LanguageCenter.exe
-D:\Github\HQTCSDL\LanguageCenter\bin\Debug\LanguageCenter.pdb
-D:\Github\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.Form1.resources
-D:\Github\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.StaffManage.resources
-D:\Github\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.StudentInfo.resources
-D:\Github\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.TeacherManage.resources
-D:\Github\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.StudentManage.resources
-D:\Github\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.Profile.resources
-D:\Github\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.Student_Profile.resources
-D:\Github\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.Student_Schedule.resources
-D:\Github\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.Student_Score.resources
-D:\Github\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.mainForms.Login.resources
-D:\Github\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.Admin_HomePage.resources
-D:\Github\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.Teacher_HomePage.resources
-D:\Github\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.Staff_HomePage.resources
-D:\Github\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.Student_HomePage.resources
-D:\Github\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.Properties.Resources.resources
-D:\Github\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.csproj.GenerateResource.cache
-D:\Github\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.csproj.CoreCompileInputs.cache
-D:\Github\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.exe
-D:\Github\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.pdb
-D:\Github\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.StaffInfo.resources
-D:\Github\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.TeacherInfo.resources
-D:\Github\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.mainForms.ChangePassword.resources
-D:\Github\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.ClassManage.resources
-D:\Github\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.CourseManage.resources
-D:\Github\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.PaymentManage.resources
-D:\Github\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.SalaryManage.resources
-D:\Github\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.ClassInfo.resources
-D:\Github\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.CourseInfo.resources
-D:\Github\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.Teacher_Profile.resources
-D:\Github\HQTCSDL2\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.Form1.resources
-D:\Github\HQTCSDL2\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.ClassManage.resources
-D:\Github\HQTCSDL2\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.StaffManage.resources
-D:\Github\HQTCSDL2\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.CourseManage.resources
-D:\Github\HQTCSDL2\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.PaymentManage.resources
-D:\Github\HQTCSDL2\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.TeacherManage.resources
-D:\Github\HQTCSDL2\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.StudentManage.resources
-D:\Github\HQTCSDL2\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.Teacher_Profile.resources
-D:\Github\HQTCSDL2\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.Student_Profile.resources
-D:\Github\HQTCSDL2\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.mainForms.ChangePassword.resources
-D:\Github\HQTCSDL2\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.mainForms.Login.resources
-D:\Github\HQTCSDL2\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.Admin_HomePage.resources
-D:\Github\HQTCSDL2\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.Teacher_HomePage.resources
-D:\Github\HQTCSDL2\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.Staff_HomePage.resources
-D:\Github\HQTCSDL2\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.Student_HomePage.resources
-D:\Github\HQTCSDL2\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.Properties.Resources.resources
-D:\Github\HQTCSDL2\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.csproj.GenerateResource.cache
-D:\Github\HQTCSDL2\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.csproj.CoreCompileInputs.cache
-D:\Github\HQTCSDL2\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.exe
-D:\Github\HQTCSDL2\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.pdb
-D:\Github\HQTCSDL2\HQTCSDL\LanguageCenter\bin\Debug\LanguageCenter.exe.config
-D:\Github\HQTCSDL2\HQTCSDL\LanguageCenter\bin\Debug\LanguageCenter.exe
-D:\Github\HQTCSDL2\HQTCSDL\LanguageCenter\bin\Debug\LanguageCenter.pdb
-D:\Github\HQTCSDL2\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.LichSuGiaoDich.resources
-D:\Github\HQTCSDL2\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.TeacherClass.resources
-D:\Github\HQTCSDL2\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.AllClass.resources
-D:\Github\HQTCSDL2\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.StudentSchedule.resources
-D:\Github\HQTCSDL2\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.Staff_Profile.resources
-D:\Github\HQTCSDL2\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.TeacherSchedule.resources
-C:\Users\lemin\Downloads\HQTCSDL-main\LanguageCenter\bin\Debug\LanguageCenter.exe.config
-C:\Users\lemin\Downloads\HQTCSDL-main\LanguageCenter\bin\Debug\LanguageCenter.exe
-C:\Users\lemin\Downloads\HQTCSDL-main\LanguageCenter\bin\Debug\LanguageCenter.pdb
-C:\Users\lemin\Downloads\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.csproj.AssemblyReference.cache
-C:\Users\lemin\Downloads\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.csproj.SuggestedBindingRedirects.cache
-C:\Users\lemin\Downloads\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.Form1.resources
-C:\Users\lemin\Downloads\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.StaffManage.resources
-C:\Users\lemin\Downloads\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.PaymentManage.resources
-C:\Users\lemin\Downloads\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.LichSuGiaoDich.resources
-C:\Users\lemin\Downloads\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.Staff_Profile.resources
-C:\Users\lemin\Downloads\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.TeacherSchedule.resources
-C:\Users\lemin\Downloads\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.TeacherClass.resources
-C:\Users\lemin\Downloads\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.AllClass.resources
-C:\Users\lemin\Downloads\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.StudentSchedule.resources
-C:\Users\lemin\Downloads\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.StudentManage.resources
-C:\Users\lemin\Downloads\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.TeacherManage.resources
-C:\Users\lemin\Downloads\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.CourseManage.resources
-C:\Users\lemin\Downloads\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.ClassManage.resources
-C:\Users\lemin\Downloads\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.Teacher_Profile.resources
-C:\Users\lemin\Downloads\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.Student_Profile.resources
-C:\Users\lemin\Downloads\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.GUI.mainForms.ChangePassword.resources
-C:\Users\lemin\Downloads\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.GUI.mainForms.Login.resources
-C:\Users\lemin\Downloads\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.GUI.Admin_HomePage.resources
-C:\Users\lemin\Downloads\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.GUI.Teacher_HomePage.resources
-C:\Users\lemin\Downloads\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.GUI.Staff_HomePage.resources
-C:\Users\lemin\Downloads\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.GUI.Student_HomePage.resources
-C:\Users\lemin\Downloads\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.Properties.Resources.resources
-C:\Users\lemin\Downloads\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.csproj.GenerateResource.cache
-C:\Users\lemin\Downloads\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.csproj.CoreCompileInputs.cache
-C:\Users\lemin\Downloads\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.exe
-C:\Users\lemin\Downloads\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.pdb
-D:\Github\HQTCSDL3\HQTCSDL\HQTCSDL-main\LanguageCenter\bin\Debug\LanguageCenter.exe.config
-D:\Github\HQTCSDL3\HQTCSDL\HQTCSDL-main\LanguageCenter\bin\Debug\LanguageCenter.exe
-D:\Github\HQTCSDL3\HQTCSDL\HQTCSDL-main\LanguageCenter\bin\Debug\LanguageCenter.pdb
-D:\Github\HQTCSDL3\HQTCSDL\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.Form1.resources
-D:\Github\HQTCSDL3\HQTCSDL\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.StaffManage.resources
-D:\Github\HQTCSDL3\HQTCSDL\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.PaymentManage.resources
-D:\Github\HQTCSDL3\HQTCSDL\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.LichSuGiaoDich.resources
-D:\Github\HQTCSDL3\HQTCSDL\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.Staff_Profile.resources
-D:\Github\HQTCSDL3\HQTCSDL\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.TeacherSchedule.resources
-D:\Github\HQTCSDL3\HQTCSDL\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.TeacherClass.resources
-D:\Github\HQTCSDL3\HQTCSDL\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.AllClass.resources
-D:\Github\HQTCSDL3\HQTCSDL\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.StudentSchedule.resources
-D:\Github\HQTCSDL3\HQTCSDL\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.StudentManage.resources
-D:\Github\HQTCSDL3\HQTCSDL\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.TeacherManage.resources
-D:\Github\HQTCSDL3\HQTCSDL\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.CourseManage.resources
-D:\Github\HQTCSDL3\HQTCSDL\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.ClassManage.resources
-D:\Github\HQTCSDL3\HQTCSDL\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.Teacher_Profile.resources
-D:\Github\HQTCSDL3\HQTCSDL\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.Student_Profile.resources
-D:\Github\HQTCSDL3\HQTCSDL\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.GUI.mainForms.ChangePassword.resources
-D:\Github\HQTCSDL3\HQTCSDL\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.GUI.mainForms.Login.resources
-D:\Github\HQTCSDL3\HQTCSDL\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.GUI.Admin_HomePage.resources
-D:\Github\HQTCSDL3\HQTCSDL\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.GUI.Teacher_HomePage.resources
-D:\Github\HQTCSDL3\HQTCSDL\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.GUI.Staff_HomePage.resources
-D:\Github\HQTCSDL3\HQTCSDL\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.GUI.Student_HomePage.resources
-D:\Github\HQTCSDL3\HQTCSDL\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.Properties.Resources.resources
-D:\Github\HQTCSDL3\HQTCSDL\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.csproj.GenerateResource.cache
-D:\Github\HQTCSDL3\HQTCSDL\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.csproj.CoreCompileInputs.cache
-D:\Github\HQTCSDL3\HQTCSDL\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.exe
-D:\Github\HQTCSDL3\HQTCSDL\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.pdb
-D:\Github\HQTCSDL3\HQTCSDL\HQTCSDL-main\LanguageCenter\obj\Debug\LanguageCenter.csproj.AssemblyReference.cache
-C:\Users\lequa\OneDrive\Desktop\temp\HQTCSDL\LanguageCenter\bin\Debug\LanguageCenter.exe.config
-C:\Users\lequa\OneDrive\Desktop\temp\HQTCSDL\LanguageCenter\bin\Debug\LanguageCenter.exe
-C:\Users\lequa\OneDrive\Desktop\temp\HQTCSDL\LanguageCenter\bin\Debug\LanguageCenter.pdb
-C:\Users\lequa\OneDrive\Desktop\temp\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.csproj.AssemblyReference.cache
-C:\Users\lequa\OneDrive\Desktop\temp\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.csproj.SuggestedBindingRedirects.cache
-C:\Users\lequa\OneDrive\Desktop\temp\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.Form1.resources
-C:\Users\lequa\OneDrive\Desktop\temp\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.StaffManage.resources
-C:\Users\lequa\OneDrive\Desktop\temp\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.PaymentManage.resources
-C:\Users\lequa\OneDrive\Desktop\temp\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.LichSuGiaoDich.resources
-C:\Users\lequa\OneDrive\Desktop\temp\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.Staff_Profile.resources
-C:\Users\lequa\OneDrive\Desktop\temp\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.TeacherSchedule.resources
-C:\Users\lequa\OneDrive\Desktop\temp\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.TeacherClass.resources
-C:\Users\lequa\OneDrive\Desktop\temp\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.AllClass.resources
-C:\Users\lequa\OneDrive\Desktop\temp\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.StudentSchedule.resources
-C:\Users\lequa\OneDrive\Desktop\temp\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.StudentManage.resources
-C:\Users\lequa\OneDrive\Desktop\temp\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.TeacherManage.resources
-C:\Users\lequa\OneDrive\Desktop\temp\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.CourseManage.resources
-C:\Users\lequa\OneDrive\Desktop\temp\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.ClassManage.resources
-C:\Users\lequa\OneDrive\Desktop\temp\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.Teacher_Profile.resources
-C:\Users\lequa\OneDrive\Desktop\temp\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.Student_Profile.resources
-C:\Users\lequa\OneDrive\Desktop\temp\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.mainForms.ChangePassword.resources
-C:\Users\lequa\OneDrive\Desktop\temp\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.mainForms.Login.resources
-C:\Users\lequa\OneDrive\Desktop\temp\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.Admin_HomePage.resources
-C:\Users\lequa\OneDrive\Desktop\temp\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.Teacher_HomePage.resources
-C:\Users\lequa\OneDrive\Desktop\temp\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.Staff_HomePage.resources
-C:\Users\lequa\OneDrive\Desktop\temp\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.Student_HomePage.resources
-C:\Users\lequa\OneDrive\Desktop\temp\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.Properties.Resources.resources
-C:\Users\lequa\OneDrive\Desktop\temp\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.csproj.GenerateResource.cache
-C:\Users\lequa\OneDrive\Desktop\temp\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.csproj.CoreCompileInputs.cache
-C:\Users\lequa\OneDrive\Desktop\temp\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.exe
-C:\Users\lequa\OneDrive\Desktop\temp\HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.pdb
+D:\Github\HQTCSDL4\-n-HQTCSDL\LanguageCenter\bin\Debug\LanguageCenter.exe.config
+D:\Github\HQTCSDL4\-n-HQTCSDL\LanguageCenter\bin\Debug\LanguageCenter.exe
+D:\Github\HQTCSDL4\-n-HQTCSDL\LanguageCenter\bin\Debug\LanguageCenter.pdb
+D:\Github\HQTCSDL4\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.csproj.AssemblyReference.cache
+D:\Github\HQTCSDL4\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.Form1.resources
+D:\Github\HQTCSDL4\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.StaffManage.resources
+D:\Github\HQTCSDL4\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.PaymentManage.resources
+D:\Github\HQTCSDL4\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.LichSuGiaoDich.resources
+D:\Github\HQTCSDL4\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.Staff_Profile.resources
+D:\Github\HQTCSDL4\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.TeacherSchedule.resources
+D:\Github\HQTCSDL4\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.TeacherClass.resources
+D:\Github\HQTCSDL4\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.AllClass.resources
+D:\Github\HQTCSDL4\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.StudentSchedule.resources
+D:\Github\HQTCSDL4\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.StudentManage.resources
+D:\Github\HQTCSDL4\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.TeacherManage.resources
+D:\Github\HQTCSDL4\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.CourseManage.resources
+D:\Github\HQTCSDL4\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.ClassManage.resources
+D:\Github\HQTCSDL4\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.Teacher_Profile.resources
+D:\Github\HQTCSDL4\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.childForms.Student_Profile.resources
+D:\Github\HQTCSDL4\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.mainForms.ChangePassword.resources
+D:\Github\HQTCSDL4\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.mainForms.Login.resources
+D:\Github\HQTCSDL4\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.Admin_HomePage.resources
+D:\Github\HQTCSDL4\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.Teacher_HomePage.resources
+D:\Github\HQTCSDL4\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.Staff_HomePage.resources
+D:\Github\HQTCSDL4\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.GUI.Student_HomePage.resources
+D:\Github\HQTCSDL4\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.Properties.Resources.resources
+D:\Github\HQTCSDL4\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.csproj.GenerateResource.cache
+D:\Github\HQTCSDL4\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.csproj.CoreCompileInputs.cache
+D:\Github\HQTCSDL4\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.exe
+D:\Github\HQTCSDL4\-n-HQTCSDL\LanguageCenter\obj\Debug\LanguageCenter.pdb
