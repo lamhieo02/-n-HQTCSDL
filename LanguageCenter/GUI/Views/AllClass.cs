@@ -118,7 +118,7 @@ namespace LanguageCenter.GUI.childForms
 
         private void refreshBtn_Click(object sender, EventArgs e)
         {
-
+            DisplayAllClassesList();
         }
     }
 }

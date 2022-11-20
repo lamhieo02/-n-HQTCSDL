@@ -1,4 +1,5 @@
-﻿using LanguageCenter.GUI.mainForms;
+﻿using LanguageCenter.GUI.childForms;
+using LanguageCenter.GUI.mainForms;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -89,7 +90,9 @@ namespace LanguageCenter.GUI
 
         private void teacherClassBtn_Click(object sender, EventArgs e)
         {
-            OpenChildForm(new childForms.TeacherClass(), sender);
+            var form = new childForms.TeacherClass();
+            form.Name = Name;
+            OpenChildForm(form, sender);
         }
 
         private void AllClassBtn_Click(object sender, EventArgs e)
