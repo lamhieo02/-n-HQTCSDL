@@ -74,7 +74,7 @@ namespace LanguageCenter.GUI
 
         private void scheduleBtn_Click(object sender, EventArgs e)
         {
-            OpenChildForm(new childForms.StudentSchedule(), sender);
+            OpenChildForm(new childForms.StudentSchedule(Username), sender);
         }
 
 
@@ -94,7 +94,7 @@ namespace LanguageCenter.GUI
 
         private void LichsugiaodichBtn_Click(object sender, EventArgs e)
         {
-            OpenChildForm(new childForms.LichSuGiaoDich(), sender);
+            OpenChildForm(new childForms.LichSuGiaoDich(Username), sender);
         }
     }
 }

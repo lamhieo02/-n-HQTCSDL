@@ -78,7 +78,7 @@ namespace LanguageCenter.GUI
         }
         private void ScheduleViewBtn_Click(object sender, EventArgs e)
         {
-            OpenChildForm(new childForms.TeacherSchedule(), sender);
+            OpenChildForm(new childForms.TeacherSchedule(Username), sender);
         }
 
         private void changePwBtn_Click(object sender, EventArgs e)
